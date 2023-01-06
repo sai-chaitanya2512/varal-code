@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@100;200;300;400;500;600;700;800;900&display=swap');
+.navContainer{
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem 2rem;
+    align-items: center;
+}
+.navContainer div{
+    display: flex;
+    padding: 0rem 1rem;
+    font-size: 1.4rem;
+    align-items: center;
+    color: grey;
+    font-weight: 350;
+    font-family: 'Lexend Deca', sans-serif;
+
+}
+.navContainer div:nth-child(1){
+    color: black;
+}
+.navContainer div button{
+    font-family: 'Lexend Deca', sans-serif;
+    border-radius: 0.5rem;
+    background-color: #525ded;
+    color: white;
+    font-weight: 300;
+    padding:1.3rem ;
+    border: none;
+    font-size: 1.3rem;
+}
