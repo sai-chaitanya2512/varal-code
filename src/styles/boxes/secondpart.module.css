@@ -1,0 +1,85 @@
+.firstpart {
+    width: auto;
+    position: relative;
+    gap: 50px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.paras {
+    line-height: .5rem;
+    font-weight: 600;
+    font-size: 24px;
+}
+
+.blu {
+    margin-top: 40px;
+    font-weight: 500;
+    color: #525ded;
+}
+
+.tabgiver {
+    width: fit-content;
+    padding: 30px 50px;
+    border-radius: 10px;
+    font-size: 22px;
+    color: #808080;
+    line-height: .5rem;
+    border: 2px solid #808080;
+}
+
+.tabgiver1 {
+    width: fit-content;
+    margin-top: 130px;
+    padding: 30px 50px;
+    border-radius: 10px;
+    font-size: 22px;
+    color: #808080;
+    line-height: .5rem;
+    border: 2px solid #808080;
+}
+
+
+.tabgiver h2 {
+    font-size: 25px;
+    font-weight: 600;
+    margin-bottom: 50px;
+    color: black;
+    text-align: start;
+}
+
+.tabgiver1 h2 {
+    font-size: 25px;
+    font-weight: 600;
+    margin-bottom: 50px;
+    color: black;
+    text-align: start;
+}
+
+.learn {
+    display: flex;
+    height: 40px;
+    width: fit-content;
+    gap: 10px;
+    align-items: center;
+    font-weight: 400;
+    margin-top: 50px;
+    font-size: 25px;
+    color: #525ded;
+}
+
+.tabgiver center {
+    margin-bottom: 50px;
+}
+
+.tabgiver1 center {
+    margin-bottom: 50px;
+}
+
+.ellipse15
+{
+    top: 770px;
+    left: 300px;
+    position: absolute;
+}

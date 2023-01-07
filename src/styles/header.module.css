@@ -1,16 +1,142 @@
-.headerContainer{
-    padding: 1rem 2rem ;
+.headerContainer {
+    padding: 1rem 2rem;
 
 }
-.headerContainer div input{
-    border: 2px solid #525ded;
-    width: 23%;
-    height: 2.9rem;
+
+.relative {
+    width: 25%;
+    position: relative;
+    display: flex;
     float: right;
+    align-items: center;
 }
-.headerContainer div input::placeholder{
+
+.sixteen {
+    position: absolute;
+    left: 130px;
+    top: 130px;
+}
+
+
+.headerContainer div input {
+    border: 2px solid #525ded;
+    width: 72%;
+    border-radius: 5px;
+    height: 2.9rem;
+    outline: #525ded;
+    padding: 0rem 3rem;
+    float: right;
     color: #525ded;
     font-size: 1.2rem;
     font-weight: 600;
-padding: 0rem 20%;
+
+}
+
+.searchh {
+    width: 2rem;
+    padding: 0rem 0.5rem;
+
+    position: absolute;
+    /* margin-top: 0.1rem; */
+}
+
+.headerContainer div input::placeholder {
+    color: #525ded;
+    font-size: 1.2rem;
+    font-weight: 600;
+
+}
+
+.orangecolor {
+    position: absolute;
+    top: 205x;
+    left: 300px;
+}
+
+.flex {
+    width: 100%;
+    position: relative;
+    justify-content: center;
+    font-weight: 900;
+    font-size: 20px;
+    flex-wrap: wrap;
+    display: flex;
+}
+.nineteen {
+    position: absolute;
+    top: 100px;
+    left: 700px;
+}
+
+.eleven {
+    position: absolute;
+    right: 310px;
+    top: 10px;
+}
+
+.flex h1 {
+    font-weight: 800;
+    word-spacing: -0.25rem;
+}
+
+.flexone p {
+    font-size: 25px;
+    color: #525ded;
+    font-weight: 350;
+}
+
+.flexone {
+    width: 45%;
+}
+
+.flextwo {
+    width: 800px;
+}
+
+
+
+.flexonepara {
+    color: #808080;
+    font-weight: 300;
+    line-height: 1rem;
+}
+
+.flexonebtns {
+    display: flex;
+}
+
+.btn1,
+.btn2 {
+    width: 220px;
+    height: 60px;
+    font-size: 20px;
+    font-weight: 300;
+    border: 2px solid #525ded;
+    color: #525ded;
+}
+
+
+
+.btn1 {
+    background-color: #525ded;
+    color: white;
+    border-radius: 3px 0px 0px 3px;
+}
+
+.btn2 {
+    border-radius: 0px 3px 3px 0px;
+}
+
+.heading {
+    line-height: 2rem;
+    font-size: 25px;
+}
+
+.ilus {
+    width: 100%;
+    height: 100%;
+}
+
+.just {
+    float: right;
 }

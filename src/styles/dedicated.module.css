@@ -1,0 +1,44 @@
+.underline {
+    /* width: fit-content; */
+    width: fit-content;
+    display: flex;
+    border-bottom: 8px solid orange;
+}
+
+h2 {
+    text-align: center;
+    font-size: 30px;
+}
+
+.whole {
+    position: relative;
+
+}
+
+.elipse23
+{
+    position: absolute;
+    top: 70px;
+    left: 520px;
+}
+.headings {
+    line-height: 2rem;
+    height: auto;
+}
+
+.para {
+    width: 100%;
+    line-height: .75rem;
+    text-align: center;
+    font-weight: 600;
+    font-size: 23px;
+    color: #808080e5;
+}
+
+.arc {
+    opacity: 0.4;
+    height: 350px;
+    top: 10px;
+    left: 120px;
+    position: absolute;
+}

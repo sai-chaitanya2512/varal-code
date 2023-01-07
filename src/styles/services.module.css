@@ -1,0 +1,38 @@
+.para1 {
+    line-height: .35rem;
+    font-size: 20px;
+    color: #808080;
+}
+
+.oranger {
+    font-size: 25px;
+    color: orange;
+}
+
+.whole {
+    margin-top: 125px;
+    display: flex;
+    height: 370px;
+    position: relative;
+    padding: 0px 60px;
+    justify-content: space-around;
+}
+
+.freezone h2 {
+    text-align: start;
+    font-weight: 600;
+    font-size: 25px;
+}
+.sixteen
+{
+    left: 350px;
+    bottom: 50px;
+    position: absolute;
+}
+
+.twofour
+{
+    position: absolute;
+    right: 650px;
+    bottom: 0%;
+}

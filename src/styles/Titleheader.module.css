@@ -1,0 +1,25 @@
+.blupara {
+    /* width: 100%; */
+    font-weight: 600;
+    font-size: 21px;
+    color: #525ded;
+}
+
+.whole
+{
+    margin-top: 4rem;
+    /* background-color: red; */
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    gap: 6px;
+}
+
+.imgholder
+{
+    width: 27px;
+    height: 28px;
+    padding: 4px;
+    border-radius: 50%;
+    border: 2.5px solid #525ded;
+}

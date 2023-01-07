@@ -14,7 +14,7 @@ export default function Nav() {
             <div>Pricing</div>
             <div>About Us</div>
            
-            <button>Start a company</button>
+            <button>Start a Company</button>
          </div>
     </div>
   )
