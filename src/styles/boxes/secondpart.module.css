@@ -67,6 +67,8 @@
     margin-top: 50px;
     font-size: 25px;
     color: #525ded;
+    width: fit-content;
+    cursor: pointer;
 }
 
 .tabgiver center {

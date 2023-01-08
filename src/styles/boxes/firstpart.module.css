@@ -17,6 +17,8 @@
     margin-top: 40px;
     font-weight: 500;
     color: #525ded;
+    cursor: pointer;
+    width: fit-content;
 }
 
 .tabgiver {

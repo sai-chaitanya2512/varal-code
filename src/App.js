@@ -1,5 +1,6 @@
 import Boxes from "./components/boxes/boxes.js";
 import Dedicated from "./components/dedicated";
+import Footer from "./components/footer/Footer.js";
 import Header from "./components/header";
 import Nav from "./components/nav";
 import Prices from "./components/Prices.js";
@@ -16,6 +17,7 @@ function App() {
       <Boxes />
       <Pricingtitle />
       <Prices/>
+      <Footer/>
     </div>
   );
 }

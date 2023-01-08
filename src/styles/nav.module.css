@@ -15,6 +15,7 @@
     color: #808080;
     font-weight: 350;
     font-family: 'Lexend Deca', sans-serif;
+    cursor: pointer;
 
 }
 
@@ -31,4 +32,5 @@
     padding: 1.3rem;
     border: none;
     font-size: 1.3rem;
+    cursor: pointer;
 }

@@ -26,18 +26,16 @@ const Prices = () => {
                         <li><img src={top} />Keeping The Register</li>
                         <li><img src={top} />Seal Charges</li>
                         <li><img src={top} />Certificate of Good Standing</li>
+                        <button className={style.continuebtn1}>Continue</button>
                     </div>
                 </div>
             </div>
 
 
 
-
-
-
             <div className={style.single}>
                 <div className={style.inner1}>
-                    <h1>RAK ICC</h1>
+                    <h2>RAK ICC</h2>
                     <h1>$2,997 <span className={style.grey1}>One Time Payment</span></h1>
                     <p>Rak Icc New Company formation
                         includes</p>
@@ -53,14 +51,10 @@ const Prices = () => {
                         <li><img src={top1} />Keeping The Register</li>
                         <li><img src={top1} />Seal Charges</li>
                         <li><img src={top1} />Certificate of Good Standing</li>
+                        <button className={style.continuebtn}>Continue</button>
                     </div>
                 </div>
             </div>
-
-
-
-
-
 
 
 
@@ -83,11 +77,12 @@ const Prices = () => {
                         <li><img src={top} />Seal Charges</li>
                         <li><img src={top} />Certificate of Good Standing</li>
                     </div>
+                    <button className={style.continuebtn1}>Continue</button>
                 </div>
             </div>
 
 
-        </div>
+        </div >
     )
 }
 

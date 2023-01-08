@@ -35,7 +35,7 @@
 .searchh {
     width: 2rem;
     padding: 0rem 0.5rem;
-
+    cursor: pointer;
     position: absolute;
     /* margin-top: 0.1rem; */
 }
@@ -113,6 +113,7 @@
     font-weight: 300;
     border: 2px solid #525ded;
     color: #525ded;
+    cursor: pointer;
 }
 
 
