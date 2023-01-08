@@ -1,0 +1,178 @@
+ .readabout {
+     border-left: 8px solid #525ded;
+     width: fit-content;
+     font-size: 22px;
+     padding: 0.25px 0px;
+     line-height: .25rem;
+     /* background-color: red; */
+     align-items: center;
+     padding-left: 30px;
+     /* background-color: red; */
+ }
+
+ .five h3 {
+     color: #808080;
+     text-align: center;
+ }
+
+ .readabout1 {
+     margin-top: 80px;
+     border-left: 8px solid #525ded;
+     width: fit-content;
+     font-size: 22px;
+     padding: 0.25px 0px;
+     line-height: .25rem;
+     /* background-color: red; */
+     align-items: center;
+     padding-left: 30px;
+ }
+
+ .whole {
+     display: flex;
+     flex-direction: column;
+     /* gap: 50px; */
+ }
+
+ .howstart {
+     gap: 10px;
+     width: fit-content;
+     height: auto;
+     padding: 10px;
+     /* background-color: red; */
+     align-items: center;
+     justify-content: center;
+     width: auto;
+     font-size: 21px;
+     height: fit-content;
+     display: flex;
+ }
+
+ .howstart1 {
+     gap: 10px;
+     width: fit-content;
+     height: auto;
+     padding: 10px 30px;
+     border-radius: 8px;
+     color: white;
+     background-color: #525ded;
+     align-items: center;
+     justify-content: center;
+     width: auto;
+     font-size: 21px;
+     height: fit-content;
+     display: flex;
+ }
+
+ .howstart1 .five h3 {
+     color: white;
+ }
+
+ .wifipicdiv {
+     border-radius: 5px;
+     padding: 30px;
+     border: 3px solid #525ded;
+ }
+
+ .wifipicdiv1 {
+     border-radius: 5px;
+     padding: 30px;
+     border: 4px solid white;
+ }
+
+ .five {
+
+     flex-direction: column;
+     width: 300px;
+ }
+
+ .five h3 {
+     font-weight: 600;
+
+ }
+
+ .siglblu {
+     color: #525ded;
+     font-size: 25px;
+     font-weight: 500;
+ }
+
+ .siglblu {
+     color: white;
+     font-size: 25px;
+     font-weight: 500;
+ }
+
+ .review {
+     gap: 30px;
+     width: auto;
+     display: flex;
+     /* background-color: rgb(212, 92, 92); */
+ }
+
+ .contactimg {
+
+     border-radius: 50%;
+     padding: 15px;
+     border: 2px solid #525ded;
+ }
+
+ .imgdiv {
+     padding-top: 30px;
+     height: 195px;
+     border-bottom: 5px solid #525ded;
+ }
+
+ .reviewpara {
+
+     font-size: 27px;
+     font-weight: 400;
+     width: 420px;
+
+ }
+
+ .reviewpara p b {
+     font-weight: 800;
+     font-size: 50px;
+ }
+
+ @media screen and (min-width:768px) and (max-width:1024px) {
+
+     .readabout,
+     .readabout1 h3 {
+         font-size: 20px;
+     }
+
+     .howstart1 {
+         gap: 10px;
+         width: fit-content;
+         height: auto;
+         padding: 0px 5px;
+         border-radius: 8px;
+         color: white;
+         background-color: #525ded;
+         align-items: center;
+         justify-content: center;
+         width: auto;
+         font-size: 16px;
+         height: fit-content;
+         display: flex;
+     }
+
+
+     .five {
+         font-size: 20px;
+     }
+
+     .reviewpara {
+         font-size: 20px;
+     }
+
+     .imgdiv {
+         height: 110px;
+     }
+
+     .wifipicdiv,
+     .wifipicdiv1 {
+         padding: 14px;
+     }
+ }

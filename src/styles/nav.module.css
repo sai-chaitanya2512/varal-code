@@ -34,3 +34,8 @@
     font-size: 1.3rem;
     cursor: pointer;
 }
+@media screen and (min-width:500px)and (max-width:768px) {
+    .navContainer div {
+        display: none;
+    }
+}
